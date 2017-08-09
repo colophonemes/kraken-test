@@ -1,0 +1,21 @@
+{
+  "name": "kraken-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/colophonemes/kraken-test.git",
+  "author": "<dev@colophonemes.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colophonemes/kraken-test/issues"
+  },
+  "homepage": "https://github.com/colophonemes/kraken-test#readme",
+  "dependencies": {
+    "better-console": "^1.0.0",
+    "dotenv": "^4.0.0",
+    "kraken-api": "^1.0.0"
+  }
+}
